@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811249833341",
+    "firebase_url": "https://medapp-890ff-default-rtdb.firebaseio.com",
+    "project_id": "medapp-890ff",
+    "storage_bucket": "medapp-890ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811249833341:android:7edc099f2a29f47c8c2814",
+        "android_client_info": {
+          "package_name": "com.example.tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811249833341-bv29cn162hdl3mlpis4s1patre0krgql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFvhKC1cXcF8hargCLK1hSs2iV6ugoTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811249833341-bv29cn162hdl3mlpis4s1patre0krgql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

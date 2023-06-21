@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>811249833341-16g9bdkane1v4rj1rnt5sb7li2jgbg6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.811249833341-16g9bdkane1v4rj1rnt5sb7li2jgbg6u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0p02elhIcHUWObfmoILNU8m0ZHa9O7l0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>811249833341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tcc</string>
+	<key>PROJECT_ID</key>
+	<string>medapp-890ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medapp-890ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:811249833341:ios:cf6d3ba45de1819c8c2814</string>
+	<key>DATABASE_URL</key>
+	<string>https://medapp-890ff-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
